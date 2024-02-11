@@ -1,2 +1,3 @@
 Creo documento.txt desde Github
 Modifico documento.txt desde Github en ramaEjercicio2
+Modifico documento.txt desde local en ramaEjercicio2
